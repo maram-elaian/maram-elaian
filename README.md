@@ -4,10 +4,10 @@
 
 # 👋 Hi, I'm Maram
 
-<a href="https://github.com/Sad3nw1">
+<a href="[https://github.com/Sad3nw1](https://github.com/maram-elaian)">
   <img src="https://img.shields.io/badge/GitHub-Maram-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/maram-ashraf-28b273399/)">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"/>
 </a>
 
