@@ -5,7 +5,7 @@
 # 👋 Hi, I'm Maram
 
 <a href="https://github.com/Sad3nw1">
-  <img src="https://img.shields.io/badge/GitHub-Sad3nw1-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+  <img src="https://img.shields.io/badge/GitHub-Maram-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
 </a>
 <a href="https://www.linkedin.com/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"/>
@@ -24,7 +24,7 @@
 
 > *"Learning by building, improving through practice."*
 
-* 🎓 **Education:** Pursuing a Bachelor's degree in Artificial Intelligence at Al-Zaytoonah University of Jordan.
+* 🎓 **Education:** Pursuing a Bachelor's degree in Artificial Intelligence at Al-Zaytoonah University of Jordan [cite: Gemini Chat. Evidence: User shared academic transcript data, resume content, and employment application cover letters detailing their major, institutional affiliation, and graduation timeline. Date: 2025-12, 2026-07.].
 * 💡 **Passions:** Programming, data analysis, and developing practical software solutions to solve real-world problems.
 * 🧠 **Focus:** Strengthening analytical skills while exploring state-of-the-art machine learning concepts.
 
