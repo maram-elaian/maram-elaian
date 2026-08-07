@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="50" height="50" alt="GitHub Logo" />
 
-# 👋 Hi, I'm Maram Ashraf
+# 👋 Hi, I'm Sad3nw1
 
 <a href="https://github.com/Sad3nw1">
   <img src="https://img.shields.io/badge/GitHub-Sad3nw1-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
