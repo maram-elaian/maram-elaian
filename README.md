@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="1786406630.png" width="100%" alt="Maram Banner" />
+<!-- إذا ما غيرتي اسم الصورة، استبدلي banner.png باسم 1786406630.png -->
+<img src="banner.png" width="100%" alt="Maram Banner" />
 
-<!-- كتابة متحركة (Typing Animation) -->
 <a href="https://github.com/maram-elaian">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F7856B&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Maram+%F0%9F%91%8B;Artificial+Intelligence+Student;Aspiring+Data+Analyst;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F7856B&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Maram+%F0%9F%91%8B;AI+Student+%7C+ML+%7C+CV+%7C+NLP;Aspiring+Data+Analyst;Learning+by+Building" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=maram-elaian&color=F7856B&style=for-the-badge&label=Profile+Views" alt="views" />
@@ -17,10 +17,10 @@
 
 > *"Learning by building, improving through practice."*
 
-- 🎓 Artificial Intelligence Student @ **Al-Zaytoonah University of Jordan**
-- 📊 Aspiring **Data Analyst** & **Machine Learning Enthusiast**
-- 💻 Passionate about programming, data analysis, and building practical solutions
-- 🌱 Currently learning: Machine Learning • Data Visualization • SQL
+- 🎓 Artificial Intelligence Student @ **Al-Zaytoonah University of Jordan** — GPA **92.2/100**
+- 🤖 Passionate about **Machine Learning, Deep Learning, Computer Vision & NLP**
+- 📊 Aspiring **Data Analyst** — Preprocessing, Analysis & Visualization
+- 🌱 Currently exploring: **YOLOv8 • MediaPipe • Deep Learning**
 
 ---
 
@@ -28,6 +28,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ضعي-رابطك-هنا"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:maramashraf05@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
   <a href="mailto:s7565104@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -35,15 +36,80 @@
 
 ## 🛠️ Tech Stack
 
+### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,sqlite,tensorflow,pytorch,opencv,matlab,git,github,vscode,linux,html,css,js,flask" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
+### 🤖 AI & Machine Learning
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,matlab" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-01324B?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-3FA9F5?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-111928?style=for-the-badge&logoColor=white" />
 </p>
+
+### 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table align="center">
+<tr>
+<td>
+
+**🚦 Traffic Sign Detection — YOLOv8**
+Object detection system for recognizing traffic signs.
+mAP@0.5: **92.8%** • Precision: **96.3%** • Recall: **94.1%**
+`YOLOv8` `Python` `OpenCV`
+
+</td>
+<td>
+
+**📝 Arabic Text Classification**
+ML model classifying Arabic text into 5 categories using TF-IDF + Logistic Regression — **89% accuracy**
+`Scikit-learn` `TF-IDF` `NLP`
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🤟 Sign Language Recognition**
+Real-time gesture recognition via hand tracking with live Arabic translation
+`MediaPipe` `OpenCV` `Machine Learning`
+
+</td>
+<td>
+
+**🎨 ChromaSight-AI**
+Color blindness detection & assistance using computer vision and image processing
+`Python` `Computer Vision`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏅 Certifications & Achievements
+
+- 🥇 **GPA 92.2/100** in Artificial Intelligence — Al-Zaytoonah University of Jordan
+- 🏅 **AI Fundamentals** — IBM (2026)
+- 🏅 **Introduction to AI & Generative AI** — Edraak (2026)
+- 🔬 Exhibitor — Scientific Day AI Project Exhibition
+- 📸 Media & Documentation Volunteer — Global Entrepreneurship Week 2025
 
 ---
 
@@ -56,10 +122,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=maram-elaian&hide_border=true&background=FFF8F2&ring=F7856B&fire=F7856B&currStreakLabel=D1495B&sideLabels=D1495B&currStreakNum=D1495B&dates=6B5B5E" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maram-elaian&theme=flat&no-frame=true&column=7" />
 </p>
 
 ---
