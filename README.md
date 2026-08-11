@@ -1,9 +1,11 @@
 <div align="center">
 
-<!-- تأكدي إنو اسم الصورة cyber-banner.png -->
+<!-- البانر الساكن -->
 <img src="cyber-banner.png" width="100%" alt="Maram Cyber Banner" />
 
-<!-- خط الكتابة تغير لخط Cyber/Pixel ولون أزرق كهربائي -->
+<!-- شريط التحميل المتحرك (بيعطي حركة للبانر) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E63946&center=true&vCenter=true&width=700&lines=Initializing+AI+Core...+██████████+100%25" alt="Loading" />
+
 <a href="https://github.com/maram-elaian">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4361EE&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Maram+%F0%9F%91%8B;AI+Student+%7C+ML+%7C+CV+%7C+NLP;Aspiring+Data+Analyst;System.Loading...+" alt="Typing SVG" />
 </a>
@@ -11,7 +13,6 @@
 <img src="https://komarev.com/ghpvc/?username=maram-elaian&color=E63946&style=flat-square&label=Profile+Views" alt="views" />
 
 </div>
-
 ---
 
 ## 💫 About Me
