@@ -1,13 +1,14 @@
 <div align="center">
 
-<!-- إذا ما غيرتي اسم الصورة، استبدلي banner.png باسم 1786406630.png -->
-<img src="banner.png" width="100%" alt="Maram Banner" />
+<!-- تأكدي إنو اسم الصورة cyber-banner.png -->
+<img src="cyber-banner.png" width="100%" alt="Maram Cyber Banner" />
 
+<!-- خط الكتابة تغير لخط Cyber/Pixel ولون أزرق كهربائي -->
 <a href="https://github.com/maram-elaian">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F7856B&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Maram+%F0%9F%91%8B;AI+Student+%7C+ML+%7C+CV+%7C+NLP;Aspiring+Data+Analyst;Learning+by+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4361EE&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Maram+%F0%9F%91%8B;AI+Student+%7C+ML+%7C+CV+%7C+NLP;Aspiring+Data+Analyst;System.Loading...+" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=maram-elaian&color=F7856B&style=for-the-badge&label=Profile+Views" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=maram-elaian&color=E63946&style=flat-square&label=Profile+Views" alt="views" />
 
 </div>
 
@@ -27,9 +28,9 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ضعي-رابطك-هنا"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:maramashraf05@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
-  <a href="mailto:s7565104@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ضعي-رابطك-هنا"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:maramashraf05@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" /></a>
+  <a href="mailto:s7565104@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -38,27 +39,27 @@
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
 ### 🤖 AI & Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,matlab" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,matlab&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-01324B?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediaPipe-3FA9F5?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-111928?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-01324B?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-3FA9F5?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-E63946?style=flat-square&logoColor=white" />
 </p>
 
 ### 🧰 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 </p>
 
 ---
@@ -115,21 +116,24 @@ Color blindness detection & assistance using computer vision and image processin
 
 ## 📊 GitHub Stats
 
+<!-- لاحظي: غيرت ألوان الكروت عشان تناسب الخلفية الغامقة (bg_color=0B0C10) -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maram-elaian&theme=radical" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maram-elaian&theme=radical&utcOffset=3" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maram-elaian&show_icons=true&hide_border=true&bg_color=0B0C10&title_color=4361EE&icon_color=E63946&text_color=C5C6C7&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maram-elaian&layout=compact&hide_border=true&bg_color=0B0C10&title_color=4361EE&text_color=C5C6C7" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maram-elaian&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=maram-elaian&hide_border=true&background=0B0C10&ring=4361EE&fire=E63946&currStreakLabel=4361EE&sideLabels=C5C6C7&currStreakNum=E63946&dates=C5C6C7" />
 </p>
+
 ---
 
 ## 🐍 Contribution Snake
 
+<!-- لاحظي: هون بنستخدم نسخة Dark Mode للأفعى عشان تطلع على الخلفية الغامقة -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maram-elaian/maram-elaian/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maram-elaian/maram-elaian/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maram-elaian/maram-elaian/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 ---
