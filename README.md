@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="banner.png" width="100%" alt="Maram Banner" />
+<img src="1786406630.png" width="100%" alt="Maram Banner" />
 
 <!-- كتابة متحركة (Typing Animation) -->
 <a href="https://github.com/maram-elaian">
-  <img src="https://1786406630.png?font=Fira+Code&weight=600&size=26&pause=1000&color=F7856B&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Maram+%F0%9F%91%8B;Artificial+Intelligence+Student;Aspiring+Data+Analyst;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F7856B&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Maram+%F0%9F%91%8B;Artificial+Intelligence+Student;Aspiring+Data+Analyst;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=maram-elaian&color=F7856B&style=for-the-badge&label=Profile+Views" alt="views" />
