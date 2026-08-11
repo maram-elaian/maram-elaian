@@ -116,14 +116,13 @@ Color blindness detection & assistance using computer vision and image processin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maram-elaian&show_icons=true&hide_border=true&bg_color=FFF8F2&title_color=D1495B&icon_color=F7856B&text_color=6B5B5E&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maram-elaian&layout=compact&hide_border=true&bg_color=FFF8F2&title_color=D1495B&text_color=6B5B5E" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maram-elaian&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maram-elaian&theme=radical&utcOffset=3" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=maram-elaian&hide_border=true&background=FFF8F2&ring=F7856B&fire=F7856B&currStreakLabel=D1495B&sideLabels=D1495B&currStreakNum=D1495B&dates=6B5B5E" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maram-elaian&theme=radical" />
 </p>
-
 ---
 
 ## 🐍 Contribution Snake
