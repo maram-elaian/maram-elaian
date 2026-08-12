@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- البانر الساكن -->
-<img src="cyber-banner.png" width="100%" alt="Maram Cyber Banner" />
+<img src="Noodle_Gallery.gif" width="100%" alt="Maram Cyber Banner" />
 
 <!-- شريط التحميل المتحرك (بيعطي حركة للبانر) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E63946&center=true&vCenter=true&width=700&lines=Initializing+AI+Core...+██████████+100%25" alt="Loading" />
+
 
 <a href="https://github.com/maram-elaian">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4361EE&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Maram+%F0%9F%91%8B;AI+Student+%7C+ML+%7C+CV+%7C+NLP;Aspiring+Data+Analyst;System.Loading...+" alt="Typing SVG" />
@@ -15,14 +15,14 @@
 </div>
 ---
 
-## 💫 About Me
+## ✵ About Me
 
 > *"Learning by building, improving through practice."*
 
-- 🎓 Artificial Intelligence Student @ **Al-Zaytoonah University of Jordan** — GPA **92.2/100**
-- 🤖 Passionate about **Machine Learning, Deep Learning, Computer Vision & NLP**
-- 📊 Aspiring **Data Analyst** — Preprocessing, Analysis & Visualization
-- 🌱 Currently exploring: **YOLOv8 • MediaPipe • Deep Learning**
+- ✫ Artificial Intelligence Student @ **Al-Zaytoonah University of Jordan** — GPA **92.2/100**
+- ✧ Passionate about **Machine Learning, Deep Learning, Computer Vision & NLP**
+- ✪ Aspiring **Data Analyst** — Preprocessing, Analysis & Visualization
+- ✤ Currently exploring: **YOLOv8 • MediaPipe • Deep Learning**
 
 ---
 
@@ -36,15 +36,15 @@
 
 ---
 
-## 🛠️ Tech Stack
+## ♔ Tech Stack
 
-### 💻 Programming Languages
+### ♔ Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-### 🤖 AI & Machine Learning
+### ♔ AI & Machine Learning
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,matlab&theme=dark" />
 </p>
@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/YOLOv8-E63946?style=flat-square&logoColor=white" />
 </p>
 
-### 🧰 Tools & Platforms
+### ♔ Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
@@ -65,7 +65,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## ⇒ Featured Projects
 
 <table align="center">
 <tr>
