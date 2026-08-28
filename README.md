@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- البانر الساكن -->
-<img src="•REDEYEMANIAC•.gif" width="100%" alt="Maram Cyber Banner" />
+<img src="noodle.gif" width="100%" alt="Maram Cyber Banner" />
 
 <!-- شريط التحميل المتحرك (بيعطي حركة للبانر) -->
 
