@@ -7,10 +7,10 @@
 
 
 <a href="https://github.com/maram-elaian">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4361EE&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Maram+%F0%9F%91%8B;AI+Student+%7C+ML+%7C+CV+%7C+NLP;Aspiring+Data+Analyst;System.Loading...+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=52B788&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Maram+%F0%9F%91%8B;AI+Student+%7C+ML+%7C+CV+%7C+NLP;Aspiring+Data+Analyst;System.Loading...+" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=maram-elaian&color=E63946&style=flat-square&label=Profile+Views" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=maram-elaian&color=2D6A4F&style=flat-square&label=Profile+Views" alt="views" />
 
 </div>
 ---
@@ -29,9 +29,9 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/maram-ashraf-28b273399/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:maramashraf05@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" /></a>
-  <a href="mailto:s7565104@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/maram-ashraf-28b273399/"><img src="https://img.shields.io/badge/LinkedIn-2D6A4F?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:maramashraf05@outlook.com"><img src="https://img.shields.io/badge/Outlook-40916C?style=flat-square&logo=microsoftoutlook&logoColor=white" /></a>
+  <a href="mailto:s7565104@gmail.com"><img src="https://img.shields.io/badge/Gmail-52B788?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -41,7 +41,7 @@
 ### ♔ Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-2D6A4F?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
 ### ♔ AI & Machine Learning
@@ -49,18 +49,18 @@
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,matlab&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-01324B?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediaPipe-3FA9F5?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-E63946?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-40916C?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-1B4332?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-2D6A4F?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-52B788?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-74C69D?style=flat-square&logoColor=white" />
 </p>
 
 ### ♔ Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-40916C?style=flat-square&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-52B788?style=flat-square&logo=jupyter&logoColor=white" />
 </p>
 
 ---
@@ -117,22 +117,22 @@ Color blindness detection & assistance using computer vision and image processin
 
 ## 📊 GitHub Stats
 
-<!-- كرت الإحصائيات العامة (بنفس ألوان الثيم: خلفية غامقة، أزرق كهربائي، أحمر) -->
+<!-- كرت الإحصائيات العامة (بثيم أخضر عشبي: خلفية غامقة، أخضر غابي، أخضر فاتح) -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maram-elaian&theme=radical&bg_color=0B0C10&title_color=4361EE&text_color=C5C6C7&icon_color=E63946&hide_border=true" width="48%" />
-  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maram-elaian&theme=gotham&bg_color=0B0F0C&title_color=52B788&text_color=C5C6C7&icon_color=74C69D&hide_border=true" width="48%" />
+
   <!-- كرت اللغات الأكثر استخداماً -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maram-elaian&theme=radical&bg_color=0B0C10&title_color=4361EE&text_color=C5C6C7&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maram-elaian&theme=gotham&bg_color=0B0F0C&title_color=52B788&text_color=C5C6C7&hide_border=true" width="48%" />
 </p>
 
 <!-- كرت تفاصيل البروفايل الكامل (بعرض الشاشة) -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maram-elaian&theme=radical&bg_color=0B0C10&title_color=4361EE&text_color=C5C6C7&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maram-elaian&theme=gotham&bg_color=0B0F0C&title_color=52B788&text_color=C5C6C7&hide_border=true" />
 </p>
 
-<!-- الـ Streak (من خدمة demolab اللي كانت شغالة عندك) -->
+<!-- الـ Streak (بألوان خضراء عشبية) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=maram-elaian&hide_border=true&background=0B0C10&ring=4361EE&fire=E63946&currStreakLabel=4361EE&sideLabels=C5C6C7&currStreakNum=E63946&dates=C5C6C7" />
+  <img src="https://streak-stats.demolab.com?user=maram-elaian&hide_border=true&background=0B0F0C&ring=52B788&fire=74C69D&currStreakLabel=52B788&sideLabels=C5C6C7&currStreakNum=74C69D&dates=C5C6C7" />
 </p>
 ---
 
