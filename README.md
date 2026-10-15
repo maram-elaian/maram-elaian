@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="820" alt="Neural network animation" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=000000&text=MARAM&fontColor=ffffff&fontSize=78&fontAlignY=38&animation=fadeIn&desc=AI%20Student%20%C2%B7%20Machine%20Learning%20%C2%B7%20Computer%20Vision%20%C2%B7%20NLP&descSize=16&descAlignY=60&descColor=aaaaaa" width="100%" alt="Maram" />
+<img src="assets/hero.svg" width="820" alt="Neural network animation" /><br/>
+<img src="assets/banner.svg" width="820" alt="Maram" />
 
 <a href="https://github.com/maram-elaian">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Maram+%F0%9F%91%8B;Building+models+that+see+and+read.;Turning+raw+data+into+insight.;Currently+exploring+YOLOv8+%E2%80%A2+MediaPipe+%E2%80%A2+Deep+Learning" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Maram;Building+models+that+see+and+read.;Turning+raw+data+into+insight.;Currently+exploring+YOLOv8+%E2%80%A2+MediaPipe+%E2%80%A2+Deep+Learning" />
     <img alt="typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=000000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Maram+%F0%9F%91%8B;Building+models+that+see+and+read.;Turning+raw+data+into+insight.;Currently+exploring+YOLOv8+%E2%80%A2+MediaPipe+%E2%80%A2+Deep+Learning" />
   </picture>
 </a>
@@ -22,7 +21,7 @@
 
 <br/>
 
-## `> whoami`
+## `> Who am i`
 
 <div align="center">
 <img src="assets/about.svg" width="820" alt="About Maram" />
@@ -30,7 +29,7 @@
 
 <br/>
 
-## `> stack`
+## `> Stack`
 
 <div align="center">
 <picture>
@@ -55,7 +54,7 @@
 
 <br/>
 
-## `> projects`
+## `> Projects`
 
 <div align="center">
 <table>
@@ -72,7 +71,7 @@
 
 <br/>
 
-## `> achievements`
+## `> Achievements`
 
 <div align="center">
 <img src="assets/achievements.svg" width="820" alt="Achievements" />
@@ -80,7 +79,7 @@
 
 <br/>
 
-## `> stats`
+## `> Stats`
 
 <div align="center">
 <picture>
