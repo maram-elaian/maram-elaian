@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- البانر الساكن -->
-<img src="download.gif" width="100%" alt="Maram Cyber Banner" />
+<img src="brn_pnc-b.gif" width="100%" alt="Maram Cyber Banner" />
 
 <!-- شريط التحميل المتحرك -->
 <a href="https://github.com/maram-elaian">
