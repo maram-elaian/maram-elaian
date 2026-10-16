@@ -5,7 +5,7 @@
 
 <a href="https://github.com/maram-elaian">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Maram;Building+models+that+see+and+read.;Turning+raw+data+into+insight.;Currently+exploring+YOLOv8+%E2%80%A2+MediaPipe+%E2%80%A2+Deep+Learning" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Maram+%F0%9F%91%8B;Building+models+that+see+and+read.;Turning+raw+data+into+insight.;Currently+exploring+YOLOv8+%E2%80%A2+MediaPipe+%E2%80%A2+Deep+Learning" />
     <img alt="typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=000000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Maram+%F0%9F%91%8B;Building+models+that+see+and+read.;Turning+raw+data+into+insight.;Currently+exploring+YOLOv8+%E2%80%A2+MediaPipe+%E2%80%A2+Deep+Learning" />
   </picture>
 </a>
@@ -21,7 +21,7 @@
 
 <br/>
 
-## `> Who am i`
+## `> whoami`
 
 <div align="center">
 <img src="assets/about.svg" width="820" alt="About Maram" />
@@ -29,18 +29,22 @@
 
 <br/>
 
-## `> Stack`
+## `> stack`
 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" />
   <img src="https://cdn.simpleicons.org/python/000000" height="44" alt="Python" />
 </picture>
-&nbsp;&nbsp;
+&nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,html,css,pytorch,tensorflow,opencv,matlab,git,github,vscode,linux&theme=dark&perline=12" />
-  <img alt="stack" src="https://skillicons.dev/icons?i=js,html,css,pytorch,tensorflow,opencv,matlab,git,github,vscode,linux&theme=light&perline=12" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,matlab,java,r,html,css,js,git,github,vscode,linux&perline=13&theme=dark" />
+  <img alt="tools" src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,matlab,java,r,html,css,js,git,github,vscode,linux&perline=13&theme=light" />
 </picture>
+<br/><br/>
+<img src="assets/skills.svg" width="820" alt="Skills" />
+</div>
+
 <br/><br/>
 <img src="https://img.shields.io/badge/SQL-24292f?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--learn-24292f?style=flat-square&logo=scikitlearn&logoColor=white" />
@@ -54,9 +58,11 @@
 
 <br/>
 
-## `> Projects`
+## `> projects`
 
 <div align="center">
+<img src="assets/card-brandora.svg" width="820" alt="Brandora" />
+<br/><br/>
 <table>
 <tr>
 <td><a href="https://github.com/maram-elaian"><img src="assets/card-yolo.svg" width="400" alt="Traffic Sign Detection" /></a></td>
@@ -71,7 +77,7 @@
 
 <br/>
 
-## `> Achievements`
+## `> achievements`
 
 <div align="center">
 <img src="assets/achievements.svg" width="820" alt="Achievements" />
@@ -79,7 +85,7 @@
 
 <br/>
 
-## `> Stats`
+## `> stats`
 
 <div align="center">
 <picture>
