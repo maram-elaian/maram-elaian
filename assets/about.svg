@@ -47,16 +47,16 @@ text{font-family:'Segoe UI',Helvetica,Arial,sans-serif;fill:var(--fg)}
 <circle cx="26" cy="22" r="5" fill="none" stroke="var(--fg)"/><circle cx="46" cy="22" r="5" fill="none" stroke="var(--line)"/><circle cx="66" cy="22" r="5" fill="none" stroke="var(--line)"/>
 <text class="m mut sm" x="90" y="26">maram@ai: ~/about</text>
 <text class="m mut sm" x="670" y="26" text-anchor="middle">GPA</text>
-<text class="m" x="28" y="84"><tspan class="mut">$ </tspan><tspan>whoami</tspan></text>
+<text class="m" x="28" y="84"><tspan class="mut">$ </tspan><tspan> WhoAmI ?</tspan></text>
 <g class="c0"><rect class="cover" x="26" y="69" width="480" height="21"/><rect class="cur k0" x="26" y="71" width="8" height="17"/></g>
 <text class="m o0" x="46" y="107">&#8594; Maram | AI Student</text>
-<text class="m" x="28" y="132"><tspan class="mut">$ </tspan><tspan>cat education.txt</tspan></text>
+<text class="m" x="28" y="132"><tspan class="mut">$ </tspan><tspan> education</tspan></text>
 <g class="c1"><rect class="cover" x="26" y="117" width="480" height="21"/><rect class="cur k1" x="26" y="119" width="8" height="17"/></g>
 <text class="m o1" x="46" y="155">&#8594; Al-Zaytoonah University of Jordan</text>
-<text class="m" x="28" y="180"><tspan class="mut">$ </tspan><tspan>cat focus.txt</tspan></text>
+<text class="m" x="28" y="180"><tspan class="mut">$ </tspan><tspan> focus</tspan></text>
 <g class="c2"><rect class="cover" x="26" y="165" width="480" height="21"/><rect class="cur k2" x="26" y="167" width="8" height="17"/></g>
-<text class="m o2" x="46" y="203">&#8594; ML  /  Deep Learning  /  Vision  /  NLP</text>
-<text class="m" x="28" y="228"><tspan class="mut">$ </tspan><tspan>cat goal.txt</tspan></text>
+<text class="m o2" x="46" y="203">&#8594; ML  /  Deep Learning  /  Vision  /  NLP / GEN AI </text>
+<text class="m" x="28" y="228"><tspan class="mut">$ </tspan><tspan> goal</tspan></text>
 <g class="c3"><rect class="cover" x="26" y="213" width="480" height="21"/><rect class="cur k3" x="26" y="215" width="8" height="17"/></g>
 <text class="m o3" x="46" y="251">&#8594; Aspiring Data Analyst</text>
 <text class="m" x="28" y="276"><tspan class="mut">$ </tspan><tspan>echo $MOTTO</tspan></text>
