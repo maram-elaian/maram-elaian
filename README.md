@@ -39,7 +39,7 @@
 &nbsp;
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,matlab,java,r,html,css,js,git,github,vscode,linux&perline=13&theme=dark" />
-  <img alt="tools" src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,matlab,java,r,html,css,js,git,github,vscode,linux&perline=13&theme=light" />
+  <img alt="tools" src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,matlab,java,r,html,css,js,git,github,vscode&perline=13&theme=light" />
 </picture>
 <br/><br/>
 <img src="assets/skills.svg" width="820" alt="Skills" />
