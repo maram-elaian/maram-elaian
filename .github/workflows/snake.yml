@@ -1,9 +1,13 @@
+```yaml
 name: Generate Snake
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -13,11 +17,13 @@ jobs:
         with:
           github_user_name: maram-elaian
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=%238A5A3B&color_dots=%23EFE4CE,%23D8B99A,%23B98965,%238A5A3B,%232E1F16
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%238A5A3B&color_dots=%23EFE4CE,%23D8B99A,%23B98965,%238A5A3B,%232E1F16
+
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
