@@ -32,33 +32,19 @@
 
 ## `> stack`
 
+
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/EFE4CE" />
-  <img src="https://cdn.simpleicons.org/python/2E1F16" height="44" alt="Python" />
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,matlab,java,r,html,css,js,git,github,vscode,linux&perline=13&theme=dark" />
-  <img alt="tools" src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,matlab,java,r,html,css,js,git,github,vscode&perline=13&theme=light" />
-</picture>
+  <img src="./assets/github-stats.svg"
+       height="165"
+       alt="GitHub Stats"/>
 
-<br/><br/>
-<img src="assets/skills.svg" width="820" alt="Skills" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/SQL-8A5A3B?style=flat-square&logo=mysql&logoColor=EFE4CE" />
-<img src="https://img.shields.io/badge/Scikit--learn-8A5A3B?style=flat-square&logo=scikitlearn&logoColor=EFE4CE" />
-<img src="https://img.shields.io/badge/Pandas-8A5A3B?style=flat-square&logo=pandas&logoColor=EFE4CE" />
-<img src="https://img.shields.io/badge/NumPy-8A5A3B?style=flat-square&logo=numpy&logoColor=EFE4CE" />
-<img src="https://img.shields.io/badge/MediaPipe-8A5A3B?style=flat-square&logoColor=EFE4CE" />
-<img src="https://img.shields.io/badge/YOLOv8-8A5A3B?style=flat-square&logoColor=EFE4CE" />
-<img src="https://img.shields.io/badge/Colab-8A5A3B?style=flat-square&logo=googlecolab&logoColor=EFE4CE" />
-<img src="https://img.shields.io/badge/Jupyter-8A5A3B?style=flat-square&logo=jupyter&logoColor=EFE4CE" />
+  <img src="./assets/top-langs.svg"
+       height="165"
+       alt="Top Languages"/>
 
 </div>
+
 
 <br/>
 
