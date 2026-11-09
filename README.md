@@ -8,7 +8,7 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=EFE4CE&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Maram+%F0%9F%91%8B;Building+models+that+see+and+read.;Turning+raw+data+into+insight.;Currently+exploring+YOLOv8+%E2%80%A2+MediaPipe+%E2%80%A2+Deep+Learning"
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=EFE4CE&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Maram;Building+models+that+see+and+read.;Turning+raw+data+into+insight.;Currently+exploring+YOLOv8%E2%80%A2+Deep+Learning"
     />
     <img
       alt="typing"
