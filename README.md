@@ -6,16 +6,28 @@
 
 <a href="https://github.com/maram-elaian">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=EFE4CE&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Maram+%F0%9F%91%8B;Building+models+that+see+and+read.;Turning+raw+data+into+insight.;Currently+exploring+YOLOv8+%E2%80%A2+MediaPipe+%E2%80%A2+Deep+Learning" />
-    <img alt="typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=2E1F16&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Maram+%F0%9F%91%8B;Building+models+that+see+and+read.;Turning+raw+data+into+insight.;Currently+exploring+YOLOv8+%E2%80%A2+%E2%80%A2+Deep+Learning" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=EFE4CE&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Maram+%F0%9F%91%8B;Building+models+that+see+and+read.;Turning+raw+data+into+insight.;Currently+exploring+YOLOv8+%E2%80%A2+MediaPipe+%E2%80%A2+Deep+Learning"
+    />
+    <img
+      alt="typing"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=2E1F16&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Maram+%F0%9F%91%8B;Building+models+that+see+and+read.;Turning+raw+data+into+insight.;Currently+exploring+YOLOv8+%E2%80%A2+MediaPipe+%E2%80%A2+Deep+Learning"
+    />
   </picture>
 </a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/maram-ashraf-28b273399/"><img src="https://img.shields.io/badge/LinkedIn-2E1F16?style=for-the-badge&logo=linkedin&logoColor=EFE4CE" /></a>
-<a href="mailto:maramashraf05@outlook.com"><img src="https://img.shields.io/badge/Outlook-2E1F16?style=for-the-badge&logo=microsoftoutlook&logoColor=EFE4CE" /></a>
-<a href="mailto:s7565104@gmail.com"><img src="https://img.shields.io/badge/Gmail-2E1F16?style=for-the-badge&logo=gmail&logoColor=EFE4CE" /></a>
+<a href="https://www.linkedin.com/in/maram-ashraf-28b273399/">
+  <img src="https://img.shields.io/badge/LinkedIn-2E1F16?style=for-the-badge&logo=linkedin&logoColor=EFE4CE" />
+</a>
+<a href="mailto:maramashraf05@outlook.com">
+  <img src="https://img.shields.io/badge/Outlook-2E1F16?style=for-the-badge&logo=microsoftoutlook&logoColor=EFE4CE" />
+</a>
+<a href="mailto:s7565104@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-2E1F16?style=for-the-badge&logo=gmail&logoColor=EFE4CE" />
+</a>
 <img src="https://komarev.com/ghpvc/?username=maram-elaian&color=8A5A3B&style=for-the-badge&label=VIEWS" />
 
 </div>
@@ -32,19 +44,9 @@
 
 ## `> stack`
 
-
 <div align="center">
-
-  <img src="./assets/github-stats.svg"
-       height="165"
-       alt="GitHub Stats"/>
-
-  <img src="./assets/top-langs.svg"
-       height="165"
-       alt="Top Languages"/>
-
+<img src="assets/skills.svg" width="820" alt="Technical Skills" />
 </div>
-
 
 <br/>
 
@@ -58,12 +60,28 @@
 
 <table>
 <tr>
-<td><a href="https://github.com/maram-elaian"><img src="assets/card-yolo.svg" width="400" alt="Traffic Sign Detection" /></a></td>
-<td><a href="https://github.com/maram-elaian"><img src="assets/card-arabic.svg" width="400" alt="Arabic Text Classification" /></a></td>
+<td>
+<a href="https://github.com/maram-elaian">
+<img src="assets/card-yolo.svg" width="400" alt="Traffic Sign Detection" />
+</a>
+</td>
+<td>
+<a href="https://github.com/maram-elaian">
+<img src="assets/card-arabic.svg" width="400" alt="Arabic Text Classification" />
+</a>
+</td>
 </tr>
 <tr>
-<td><a href="https://github.com/maram-elaian"><img src="assets/card-sign.svg" width="400" alt="Sign Language Recognition" /></a></td>
-<td><a href="https://github.com/maram-elaian"><img src="assets/card-chroma.svg" width="400" alt="ChromaSight-AI" /></a></td>
+<td>
+<a href="https://github.com/maram-elaian">
+<img src="assets/card-sign.svg" width="400" alt="Sign Language Recognition" />
+</a>
+</td>
+<td>
+<a href="https://github.com/maram-elaian">
+<img src="assets/card-chroma.svg" width="400" alt="ChromaSight-AI" />
+</a>
+</td>
 </tr>
 </table>
 
@@ -83,21 +101,29 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=maram-elaian&show_icons=true&hide_border=true&bg_color=2E1F16&title_color=EFE4CE&text_color=EFE4CE&icon_color=8A5A3B&rank_icon=github" />
-  <img alt="stats" height="170" src="https://github-readme-stats.vercel.app/api?username=maram-elaian&show_icons=true&hide_border=true&bg_color=EFE4CE&title_color=2E1F16&text_color=2E1F16&icon_color=8A5A3B&rank_icon=github" />
-</picture>
+<img
+  src="assets/github-stats.svg"
+  height="165"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="assets/top-langs.svg"
+  height="165"
+  alt="Top Languages"
+/>
+
+<br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=maram-elaian&layout=compact&hide_border=true&bg_color=2E1F16&title_color=EFE4CE&text_color=EFE4CE" />
-  <img alt="languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maram-elaian&layout=compact&hide_border=true&bg_color=EFE4CE&title_color=2E1F16&text_color=2E1F16" />
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=maram-elaian&hide_border=true&background=2E1F16&ring=8A5A3B&fire=8A5A3B&currStreakLabel=EFE4CE&sideLabels=EFE4CE&currStreakNum=EFE4CE&sideNums=EFE4CE&dates=8A5A3B" />
-  <img alt="streak" src="https://streak-stats.demolab.com?user=maram-elaian&hide_border=true&background=EFE4CE&ring=8A5A3B&fire=8A5A3B&currStreakLabel=2E1F16&sideLabels=2E1F16&currStreakNum=2E1F16&sideNums=2E1F16&dates=8A5A3B" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=maram-elaian&hide_border=true&background=2E1F16&ring=8A5A3B&fire=8A5A3B&currStreakLabel=EFE4CE&sideLabels=EFE4CE&currStreakNum=EFE4CE&sideNums=EFE4CE&dates=8A5A3B"
+  />
+  <img
+    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com?user=maram-elaian&hide_border=true&background=EFE4CE&ring=8A5A3B&fire=8A5A3B&currStreakLabel=2E1F16&sideLabels=2E1F16&currStreakNum=2E1F16&sideNums=2E1F16&dates=8A5A3B"
+  />
 </picture>
 
 </div>
@@ -106,9 +132,21 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maram-elaian/maram-elaian/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/maram-elaian/maram-elaian/output/github-contribution-grid-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/maram-elaian/maram-elaian/output/github-contribution-grid-snake-dark.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/maram-elaian/maram-elaian/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=8A5A3B&section=footer&text=Learning%20by%20building&fontColor=EFE4CE&fontSize=18&fontAlignY=68&animation=fadeIn" width="100%" alt="footer" />
+<br/>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=110&color=8A5A3B&section=footer&text=Learning%20by%20building&fontColor=EFE4CE&fontSize=18&fontAlignY=68&animation=fadeIn"
+  width="100%"
+  alt="Footer"
+/>
